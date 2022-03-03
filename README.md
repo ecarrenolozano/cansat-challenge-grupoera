@@ -19,7 +19,7 @@
 *   Universidad Sergio Arboleda.
 *   Universidad Distrital Francisco Jose de Caldas (*Colombia*).
 *   Fuerza Area Colombiana.
-*   
+
 **Repository:**
 [Github](https://github.com/ecarrenolozano/cansat-challenge-grupoera)
 
